@@ -8,7 +8,7 @@
 	<?php 
 	$result1 = True;
 	$result2 = False;
-	$result3 = midagi;
+	$result3 = "midagi";
 	?>
 	<?php echo $result1;?> <br>
 	<?php echo $result2;?> <br>
